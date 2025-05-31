@@ -8,5 +8,6 @@ kontennya lalu RNN untuk deeplearning dan menggunakan beberapa optimalisasi untu
 
 if you need the dataset you can DM me 
 
-instagram : syahdanna_
-Linkedin : [syahdannaufal](https://www.linkedin.com/in/syahdannaufal/)
+- instagram : syahdanna_
+- Linkedin : [syahdannaufal](https://www.linkedin.com/in/syahdannaufal/)
+
